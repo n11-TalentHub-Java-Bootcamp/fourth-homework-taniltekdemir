@@ -1,6 +1,7 @@
 package com.taniltekdemir.n11.dischargeSystem.gen.service;
 
 import com.taniltekdemir.n11.dischargeSystem.gen.entity.BaseEntity;
+import com.taniltekdemir.n11.dischargeSystem.user.entity.User;
 import lombok.AllArgsConstructor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Service;
