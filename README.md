@@ -10,8 +10,9 @@ Swagger is used for project documentation. You can find all endpoints here.
     * PostgreSQL
     * MapStruct
     * Swagger
-    
+## Relation ClientSide Project
 
+You can find [this link]https://github.com/taniltekdemir/DischargeSystemClient client project for this ServerSide project.
 ## Contact 
 - Teyfik Anıl TEKDEMİR - taniltekdemir@gmail.com
 - Project [Link](https://github.com/n11-TalentHub-Java-Bootcamp/fourth-homework-taniltekdemir) 
