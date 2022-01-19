@@ -24,9 +24,9 @@ public class ReceiptController {
     private final UserEntityService userService;
 
     /**Tahsilat yapan*/
-    @GetMapping
-    public ResponseEntity<?> receiptProcess(@RequestParam Long userId,
-                                            @RequestParam Long debtId){
+    @PostMapping
+    public ResponseEntity<?> receiptProcess(@RequestParam("userId") Long userId,
+                                            @RequestParam("debtId") Long debtId){
 
         try {
             receiptService.receiptProcess(userId, debtId);

@@ -50,7 +50,7 @@ public class DebtController {
     }
 
     /** Bir kullanıcının tüm borçları listeleyen*/
-    @GetMapping("/getAllByUserId")
+    @PostMapping("/getAllByUserId")
     public ResponseEntity<?> getAllByUserId(@RequestParam Long userId){
 
         Optional<User> user = userService.findById(userId);
