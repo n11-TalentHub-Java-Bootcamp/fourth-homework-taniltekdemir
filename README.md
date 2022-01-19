@@ -6,6 +6,16 @@ Swagger is used for project documentation. You can find all endpoints here.
 
 ## Image
 I have developed a separate project for the client side of this project. You can find the github link of this project at the end of the page. I will add some images for you to have an idea about the project.
+## Main Page
+![alt text](https://github.com/n11-TalentHub-Java-Bootcamp/fourth-homework-taniltekdemir/blob/main/image/mainPage.png)
+## User Save
+![alt text](https://github.com/n11-TalentHub-Java-Bootcamp/fourth-homework-taniltekdemir/blob/main/image/userSave.png)
+## Debt Process
+![alt text](https://github.com/n11-TalentHub-Java-Bootcamp/fourth-homework-taniltekdemir/blob/main/image/userSelect.png)
+![alt text](https://github.com/n11-TalentHub-Java-Bootcamp/fourth-homework-taniltekdemir/blob/main/image/debtScreen.png)
+## Collection Process
+![alt text](https://github.com/n11-TalentHub-Java-Bootcamp/fourth-homework-taniltekdemir/blob/main/image/collectionScreen.png)
+
 
 
 ## Build With
